@@ -1,0 +1,38 @@
+C:\Users\srgjz\source\repos\1st try\1st try\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\srgjz\source\repos\1st try\1st try\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\srgjz\source\repos\1st try\1st try\bin\Debug\netcoreapp3.1\1st try.exe
+C:\Users\srgjz\source\repos\1st try\1st try\bin\Debug\netcoreapp3.1\1st try.deps.json
+C:\Users\srgjz\source\repos\1st try\1st try\bin\Debug\netcoreapp3.1\1st try.runtimeconfig.json
+C:\Users\srgjz\source\repos\1st try\1st try\bin\Debug\netcoreapp3.1\1st try.runtimeconfig.dev.json
+C:\Users\srgjz\source\repos\1st try\1st try\bin\Debug\netcoreapp3.1\1st try.dll
+C:\Users\srgjz\source\repos\1st try\1st try\bin\Debug\netcoreapp3.1\1st try.pdb
+C:\Users\srgjz\source\repos\1st try\1st try\bin\Debug\netcoreapp3.1\1st try.Views.dll
+C:\Users\srgjz\source\repos\1st try\1st try\bin\Debug\netcoreapp3.1\1st try.Views.pdb
+C:\Users\srgjz\source\repos\1st try\1st try\obj\Debug\netcoreapp3.1\1st try.csproj.AssemblyReference.cache
+C:\Users\srgjz\source\repos\1st try\1st try\obj\Debug\netcoreapp3.1\1st try.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srgjz\source\repos\1st try\1st try\obj\Debug\netcoreapp3.1\1st try.AssemblyInfoInputs.cache
+C:\Users\srgjz\source\repos\1st try\1st try\obj\Debug\netcoreapp3.1\1st try.AssemblyInfo.cs
+C:\Users\srgjz\source\repos\1st try\1st try\obj\Debug\netcoreapp3.1\1st try.csproj.CoreCompileInputs.cache
+C:\Users\srgjz\source\repos\1st try\1st try\obj\Debug\netcoreapp3.1\1st try.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\srgjz\source\repos\1st try\1st try\obj\Debug\netcoreapp3.1\1st try.RazorAssemblyInfo.cache
+C:\Users\srgjz\source\repos\1st try\1st try\obj\Debug\netcoreapp3.1\1st try.RazorAssemblyInfo.cs
+C:\Users\srgjz\source\repos\1st try\1st try\obj\Debug\netcoreapp3.1\staticwebassets\1st try.StaticWebAssets.Manifest.cache
+C:\Users\srgjz\source\repos\1st try\1st try\obj\Debug\netcoreapp3.1\staticwebassets\1st try.StaticWebAssets.xml
+C:\Users\srgjz\source\repos\1st try\1st try\obj\Debug\netcoreapp3.1\scopedcss\bundle\1st try.styles.css
+C:\Users\srgjz\source\repos\1st try\1st try\obj\Debug\netcoreapp3.1\1st try.TagHelpers.input.cache
+C:\Users\srgjz\source\repos\1st try\1st try\obj\Debug\netcoreapp3.1\1st try.TagHelpers.output.cache
+C:\Users\srgjz\source\repos\1st try\1st try\obj\Debug\netcoreapp3.1\1st try.RazorCoreGenerate.cache
+C:\Users\srgjz\source\repos\1st try\1st try\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\srgjz\source\repos\1st try\1st try\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\srgjz\source\repos\1st try\1st try\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\srgjz\source\repos\1st try\1st try\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\srgjz\source\repos\1st try\1st try\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\srgjz\source\repos\1st try\1st try\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\srgjz\source\repos\1st try\1st try\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\srgjz\source\repos\1st try\1st try\obj\Debug\netcoreapp3.1\1st try.RazorTargetAssemblyInfo.cache
+C:\Users\srgjz\source\repos\1st try\1st try\obj\Debug\netcoreapp3.1\1st try.RazorTargetAssemblyInfo.cs
+C:\Users\srgjz\source\repos\1st try\1st try\obj\Debug\netcoreapp3.1\1st try.Views.pdb
+C:\Users\srgjz\source\repos\1st try\1st try\obj\Debug\netcoreapp3.1\1st try.dll
+C:\Users\srgjz\source\repos\1st try\1st try\obj\Debug\netcoreapp3.1\1st try.pdb
+C:\Users\srgjz\source\repos\1st try\1st try\obj\Debug\netcoreapp3.1\1st try.genruntimeconfig.cache
+C:\Users\srgjz\source\repos\1st try\1st try\obj\Debug\netcoreapp3.1\1st try.csproj.CopyComplete

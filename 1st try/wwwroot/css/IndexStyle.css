@@ -1,0 +1,45 @@
+﻿body {
+    margin: 0;
+}
+.header-style {
+    background: #1b1d1c;
+    background-size: cover;
+    color: #ffffff;
+    min-width: 550px;
+    height: max-content;
+    padding-bottom: 40px;
+}
+
+#amogus {
+    font-weight: bold;
+    text-align: center;
+    font-size: 60px;
+    padding-top: 40px;
+}
+
+p {
+    text-align: center;
+    font-family: "Arial", sans-serif;
+}
+
+.header-style p {
+    font-size: 20px;
+}
+
+h2 {
+    width: max-content;
+    border-bottom: 2px solid #cccccc;
+    text-align: center;
+    font-size: 30px;
+}
+
+table th, table td {
+    padding: 5px;
+    align-content: center;
+}
+
+/*li {
+    font-size: 20px;
+    margin-left: 50px;
+}*/
+

@@ -1,0 +1,215 @@
+﻿@page
+@model _1st_try.Models.EmailModel
+@*IndexModel*@
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<!doctype html>
+<html lang="en">
+<!-- <h1 class="display-4">Welcome</h1>-->
+<!-- <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>-->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>ZolarShmot</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+    <link rel="stylesheet" href="~/css/IndexStyle.css" />
+</head>
+<body>
+    <header class="header-style">
+        <h1 id="amogus">ZolarShmot</h1>
+        <br>
+        <p>Шмот который нравится тебе,<!--<br>--> и по карману твоей маме</p>
+    </header>
+    <br>
+    <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        </div>
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="..." class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="..." class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="..." class="d-block w-100" alt="...">
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Предыдущий</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Следующий</span>
+        </button>
+    </div>
+    <br>
+    <h2>Что Вы сможете найти в ниших магазинах?</h2>
+    <br>
+    <div class="d-flex justify-content-evenly">
+        <div>
+            <img src="tshirt.png" height="110">
+            <p class="fs-4">Одежда</p>
+        </div>
+        <div>
+            <img src="sneakers.png" height="110">
+            <p class="fs-4">Обувь</p>
+        </div>
+        <div>
+            <img src="accessories.png" height="110">
+            <p class="fs-4">Аксессуары</p>
+        </div>
+    </div>
+    <br>
+    <br>
+    <h2>Почему именно мы?</h2>
+    <br>
+    <ol class="list-group list-group-numbered">
+        <li class="list-group-item d-flex justify-content-between align-items-start">
+            <div class="ms-2 me-auto">
+                <div class="fw-bold">Высокое качество продукции!</div>
+                Мы тщательно следим за производством однжды и аксессуаров. Каждая модель проходит проверки на прочность,
+                удобство и качество материалов.
+                Только полсе полной проверки и сертификации товар поподает в магазин!
+            </div>
+        </li>
+        <br>
+        <li class="list-group-item d-flex justify-content-between align-items-start">
+            <div class="ms-2 me-auto">
+                <div class="fw-bold">Коллекции обнавляются каждый месяц!</div>
+                Наши модельеры потом и кровью создают для вас новые модели одежды и аксессуаров.
+                Пока Вы выбираете себе новенькую пару кроссовок, в каком-то темном подвале на окрайне города,
+                какой-то паренек с отличным чувством вкуса уже выдумывает для вас что-то новое и стильное.
+            </div>
+        </li>
+        <br>
+        <li class="list-group-item d-flex justify-content-between align-items-start">
+            <div class="ms-2 me-auto">
+                <div class="fw-bold">Широкий размерный ряд!</div>
+                Нам все равно, любите ли вы покушать или наоборот следите за каждой набранной калорией,
+                в нашем магазине Вы найдете любой размер полюбившейся вам вещи.
+            </div>
+        </li>
+        <br>
+        <li class="list-group-item d-flex justify-content-between align-items-start">
+            <div class="ms-2 me-auto">
+                <div class="fw-bold">Приятные цены!</div>
+                Мы продаем вещи по той цене, которой они соответсвуют. Никаких наценок за бренд!
+            </div>
+        </li>
+        <br>
+        <li class="list-group-item d-flex justify-content-between align-items-start">
+            <div class="ms-2 me-auto">
+                <div class="fw-bold">Кэшьбэк 5% с каждой 1000 рублей!</div>
+                В нашем магазине вы будете получать кэшбек 5% от стоимости товара за каждую тысячу в чеке. Нам не сложно - вам приятно:)
+            </div>
+        </li>
+    </ol>
+    <br>
+    <br>
+    <h2>Где нас найти?</h2>
+    <br>
+    <table class="table table-dark table-striped ">
+        <thead>
+            <tr>
+                <th scope="col">Город</th>
+                <th scope="col">Количество филиалов</th>
+                <th scope="col">Адреса</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Владивосток</td>
+                <td>2</td>
+                <td>ул.Пашкова-техника 228<br>ул.Пупкина 1</td>
+            </tr>
+            <tr>
+                <td>Апсеньев</td>
+                <td>1</td>
+                <td>ул.Джим-мастера 2ААААААААААА</td>
+            </tr>
+        </tbody>
+    </table>
+    <br>
+    <br>
+    <h2>Остались вопросы?</h2>
+    <br>
+    <p>
+        Задайте их нам: askZolarShmot@gmail.com
+    </p>    
+    <div>
+        @using (Html.BeginForm("Index", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        {
+            <table border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                    <td style="width: 80px">
+                        To:
+                    </td>
+                    <td>
+                        @Html.TextBoxFor(model => model.To)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Subject:
+                    </td>
+                    <td>
+                        @Html.TextBoxFor(model => model.Subject)
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top">
+                        Body:
+                    </td>
+                    <td>
+                        @Html.TextAreaFor(model => model.Body, new { rows = "3", cols = "20" })
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        File Attachment:
+                    </td>
+                    <td>
+                        @Html.TextBoxFor(model => model.Attachment, new { type = "file" })
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Gmail Email:
+                    </td>
+                    <td>
+                        @Html.TextBoxFor(model => model.Email)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Gmail Password:
+                    </td>
+                    <td>
+                        @Html.TextBoxFor(model => model.Password, new { type = "password" })
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>
+                        <input type="submit" value="Send" />
+                    </td>
+                </tr>
+            </table>
+            <br />
+            <span style="color:green">@ViewBag.Message</span>
+        }
+    </div>
+    <br>
+</body>
+<br>
+</html>
